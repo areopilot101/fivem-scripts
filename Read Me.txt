@@ -1,0 +1,10 @@
+For this script to work properly you will need to change the "admins-c.lua" file where it says "*Put Admins*" to your own Servers Admins.
+
+This script is client sided so only the person who types the command will be able to see it.
+
+The command is "/admins"
+
+
+This resource is created for FiveM by Adam M.#7787 please do not redistribute this file anywhere without explicit permission from Adam M.#7787 
+
+I am not responsible for any harm that comes to your computer by using this script.

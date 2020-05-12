@@ -1,0 +1,1 @@
+resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'--[[      Simple admin command for FiveM servers to help new players see who the server admins are.	  Created by Adam M.✪#7787--]]client_script 'admins-c.lua' 
